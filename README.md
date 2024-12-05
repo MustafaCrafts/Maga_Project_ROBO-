@@ -64,11 +64,11 @@ music = {
 python robo.py
 ```
 ### Commands
-* Wake Word: Say robo to activate the assistant
-* Open Websites: Say open [website name] (e.g., open google)
-* Play Songs: Say play [song name] (e.g., play shape of you)
-* Stop Songs: Say stop the song or close the song
-* Shutdown Robo: Say robo off
+* Wake Word: `Say robo` to activate the assistant
+* Open Websites: `Say open [website name] (e.g., open google)`
+* Play Songs: `Say play [song name]` (e.g., play shape of you)
+* Stop Songs: `Say stop the song or close the song`
+* Shutdown Robo: `Say robo off`
 # Project Structure
 ```
 
